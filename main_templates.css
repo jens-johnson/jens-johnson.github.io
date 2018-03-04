@@ -2,8 +2,19 @@
 	background-color: #ffffff;
 }
 
-.main_body h1{
-	color: #000080;
-	font: "Trebuchet MS";
-	text-align: center;
+.main_body header{
+	padding: 1em;
+	color: #ffffff;
+	background-image: "header_background.jpg";
 }
+
+.main_body header:hover{
+	color: #4d1933;
+}
+
+
+.main_body h1{
+	text-align: justify;
+	text-shadow: 2px 2px black;
+}
+
